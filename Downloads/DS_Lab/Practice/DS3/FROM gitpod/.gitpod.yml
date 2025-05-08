@@ -1,3 +1,2 @@
-yaml
 image:
-file: .gitpod.Dockerfile
+  file: .gitpod.Dockerfile
